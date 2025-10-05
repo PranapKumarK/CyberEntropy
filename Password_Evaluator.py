@@ -73,7 +73,7 @@ def main():
             print(" - Increase password length (12+ characters recommended)")
 
     else:
-        print("Your password is strong and secure ✅")
+        print("Your password is strong and secure")
 
 if __name__ == "__main__":
     main()
